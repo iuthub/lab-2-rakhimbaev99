@@ -1,0 +1,32 @@
+body
+{
+    background-color: #17351A;
+    color: white;
+}
+b{
+    color: red;
+}
+img
+{
+    width: 300px; height: 300px;
+}
+h1,h3
+{
+    color: #14A76C;
+    padding: 0 2px;
+    margin-bottom: 2rem;
+    font-family: Cursive;
+}
+p
+{
+    font-family: "Monaco";
+}
+ul
+{
+    font-family: "Bell MT" ;
+}
+a
+{
+    text-decoration: none;
+    color: red;
+}
